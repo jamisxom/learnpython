@@ -70,4 +70,4 @@ def start():
     else:
         dead("You stumbel around till you starve")
 
-    start()
+start()
